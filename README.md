@@ -47,7 +47,25 @@ an INNER JOIN using city and year as keys.
 Exploratory analysis was conducted with Pandas, Seaborn and Matplotlib to examine
 distributions, outliers and possible associations between urban congestion,
 economic productivity and population size.
+## Visualizations
 
+### Distribution of average congestion delay
+
+![Distribution of average congestion delay](images/jams_delay_boxplot.png)
+
+The boxplot shows a strongly skewed distribution and identifies Mexico City as the main congestion outlier.
+
+### GDP per capita distribution
+
+![GDP per capita distribution](images/gdp_per_capita_distribution.png)
+
+Most cities are concentrated within an approximate GDP per capita range of USD 10,000 to USD 14,000, with a small number of cities reaching higher values.
+
+### Congestion and GDP per capita by city
+
+![Congestion and GDP per capita comparison by city](images/congestion_gdp_comparison_by_city.png)
+
+The comparison does not reveal a clear association between higher GDP per capita and higher average congestion delay.
 ## Key findings
 
 - No clear association was observed between higher GDP per capita and higher
