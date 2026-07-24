@@ -120,4 +120,7 @@ urban density and geographic distribution.
 
 ## Author
 
-Rodrigo Garza García
+**Rodrigo Garza García**
+
+- [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/)
+- [Email](mailto:rogarzag@gmail.com)
