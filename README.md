@@ -6,7 +6,7 @@
 **GitHub repository:** [latam-traffic-economic-analysis](https://github.com/rogarzag/latam-traffic-economic-analysis)  
 **Project focus:** Data Analytics · Urban Mobility · Economic Indicators · Data Integration · Exploratory Analysis  
 **Project context:** Data Analytics portfolio project  
-**Data / case coverage:** 2024 traffic and economic data across 15 cities in seven Latin American countries  
+**Data / period covered:** 2024 traffic and economic data across 15 cities in seven Latin American countries  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
@@ -51,8 +51,7 @@ Numeric and date formats were corrected, column names were normalized and both
 datasets were filtered to include only 2024 observations.
 
 Traffic indicators were aggregated by city and year using their average values.
-The resulting table was combined with GDP per capita and population data through
-an INNER JOIN using city and year as keys.
+The traffic data were combined with GDP per capita and population data using city and year as matching fields.
 
 Exploratory analysis was conducted with Pandas, Seaborn and Matplotlib to examine
 distributions, outliers and possible associations between urban congestion,
