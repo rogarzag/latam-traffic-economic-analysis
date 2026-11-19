@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [latam traffic economic analysis](https://rogarzag.github.io/projects/latam-mobility/)  
+**Portfolio page:** [Professional Website — Projects](https://rogarzag.github.io/#projects)  
 **GitHub repository:** [latam-traffic-economic-analysis](https://github.com/rogarzag/latam-traffic-economic-analysis)  
 **Project focus:** Data Analytics · Urban Mobility · Economic Indicators · Data Integration · Exploratory Analysis  
 **Project context:** Data Analytics portfolio project  
