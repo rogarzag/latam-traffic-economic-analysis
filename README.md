@@ -6,7 +6,7 @@
 **GitHub repository:** [latam-traffic-economic-analysis](https://github.com/rogarzag/latam-traffic-economic-analysis)  
 **Project focus:** Data Analytics · Urban Mobility · Economic Indicators · Data Integration · Exploratory Analysis  
 **Project context:** Data Analytics portfolio project  
-**Data / period covered:** 2024 traffic and economic data across 15 cities in seven Latin American countries  
+**Data / project coverage:** 2024 traffic and economic data across 15 cities in seven Latin American countries  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
