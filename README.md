@@ -1,7 +1,17 @@
 # Urban Mobility and Economic Analysis in Latin America
 
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [latam traffic economic analysis](https://rogarzag.github.io/projects/latam-mobility/)  
+**GitHub repository:** [latam-traffic-economic-analysis](https://github.com/rogarzag/latam-traffic-economic-analysis)  
+**Project focus:** Data Analytics · Urban Mobility · Economic Indicators · Data Integration · Exploratory Analysis  
+**Project context:** Data Analytics portfolio project  
+**Data / case coverage:** 2024 traffic and economic data across 15 cities in seven Latin American countries  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
+
+## Project Overview
+
 Urban mobility and economic analysis of 15 Latin American cities using Python and Pandas.
-## Project overview
 
 Analysis of mobility, traffic congestion and economic indicators across
 15 Latin American cities during 2024.
@@ -118,9 +128,6 @@ urban density and geographic distribution.
 
 [Open the complete Jupyter Notebook](latam_mobility_economy_analysis.ipynb)
 
-## Author
+## Conclusion
 
-**Rodrigo Garza García**
-
-- [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/)
-- [Email](mailto:rogarzag@gmail.com)
+The city-level comparison did not show a clear relationship between GDP per capita and average congestion delay. Bogotá emerged as a candidate for further transportation-investment assessment under the criteria used, but the analysis is descriptive and does not establish causality or determine investment feasibility. Additional infrastructure, public-transport, and urban-form indicators would be needed for a stronger assessment.
